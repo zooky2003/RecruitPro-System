@@ -1,0 +1,725 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|c:\\users\\hp\\source\\repos\\recruitmentplatform.api\\recruitmentplatform.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|solutionrelative:recruitmentplatform.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|c:\\users\\hp\\source\\repos\\recruitmentplatform.api\\recruitmentplatform.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|solutionrelative:recruitmentplatform.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|c:\\users\\hp\\source\\repos\\recruitmentplatform.api\\recruitmentplatform.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|solutionrelative:recruitmentplatform.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|c:\\users\\hp\\source\\repos\\recruitmentplatform.api\\recruitmentplatform.api\\controllers\\applicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|solutionrelative:recruitmentplatform.api\\controllers\\applicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|c:\\users\\hp\\source\\repos\\recruitmentplatform.api\\recruitmentplatform.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|solutionrelative:recruitmentplatform.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\AppData\\Local\\Temp\\2z2obd5b..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|c:\\users\\hp\\source\\repos\\recruitmentplatform.api\\recruitmentplatform.api\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|solutionrelative:recruitmentplatform.api\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|c:\\users\\hp\\source\\repos\\recruitmentplatform.api\\recruitmentplatform.api\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|solutionrelative:recruitmentplatform.api\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|c:\\users\\hp\\source\\repos\\recruitmentplatform.api\\recruitmentplatform.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|solutionrelative:recruitmentplatform.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|c:\\users\\hp\\source\\repos\\recruitmentplatform.api\\recruitmentplatform.api\\services\\smsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|solutionrelative:recruitmentplatform.api\\services\\smsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|c:\\users\\hp\\source\\repos\\recruitmentplatform.api\\recruitmentplatform.api\\repositories\\interviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|solutionrelative:recruitmentplatform.api\\repositories\\interviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|c:\\users\\hp\\source\\repos\\recruitmentplatform.api\\recruitmentplatform.api\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|solutionrelative:recruitmentplatform.api\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|c:\\users\\hp\\source\\repos\\recruitmentplatform.api\\recruitmentplatform.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|solutionrelative:recruitmentplatform.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|c:\\users\\hp\\source\\repos\\recruitmentplatform.api\\recruitmentplatform.api\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|solutionrelative:recruitmentplatform.api\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|c:\\users\\hp\\source\\repos\\recruitmentplatform.api\\recruitmentplatform.api\\services\\geminiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|solutionrelative:recruitmentplatform.api\\services\\geminiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|c:\\users\\hp\\source\\repos\\recruitmentplatform.api\\recruitmentplatform.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|solutionrelative:recruitmentplatform.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|c:\\users\\hp\\source\\repos\\recruitmentplatform.api\\recruitmentplatform.api\\models\\candidateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|solutionrelative:recruitmentplatform.api\\models\\candidateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|c:\\users\\hp\\source\\repos\\recruitmentplatform.api\\recruitmentplatform.api\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|solutionrelative:recruitmentplatform.api\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|c:\\users\\hp\\source\\repos\\recruitmentplatform.api\\recruitmentplatform.api\\recruitmentplatform.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|solutionrelative:recruitmentplatform.api\\recruitmentplatform.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|c:\\users\\hp\\source\\repos\\recruitmentplatform.api\\recruitmentplatform.api\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|solutionrelative:recruitmentplatform.api\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|c:\\users\\hp\\source\\repos\\recruitmentplatform.api\\recruitmentplatform.api\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|solutionrelative:recruitmentplatform.api\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|c:\\users\\hp\\source\\repos\\recruitmentplatform.api\\recruitmentplatform.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|solutionrelative:recruitmentplatform.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|c:\\users\\hp\\source\\repos\\recruitmentplatform.api\\recruitmentplatform.api\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|solutionrelative:recruitmentplatform.api\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|c:\\users\\hp\\source\\repos\\recruitmentplatform.api\\recruitmentplatform.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|solutionrelative:recruitmentplatform.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|c:\\users\\hp\\source\\repos\\recruitmentplatform.api\\recruitmentplatform.api\\models\\organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|solutionrelative:recruitmentplatform.api\\models\\organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|c:\\users\\hp\\source\\repos\\recruitmentplatform.api\\recruitmentplatform.api\\controllers\\interviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|solutionrelative:recruitmentplatform.api\\controllers\\interviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Migrations\\20260709185921_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RecruitmentPlatform.API\\Migrations\\20260709185921_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|c:\\users\\hp\\source\\repos\\recruitmentplatform.api\\recruitmentplatform.api\\repositories\\iinterviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|solutionrelative:recruitmentplatform.api\\repositories\\iinterviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|c:\\users\\hp\\source\\repos\\recruitmentplatform.api\\recruitmentplatform.api\\repositories\\applicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|solutionrelative:recruitmentplatform.api\\repositories\\applicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|c:\\users\\hp\\source\\repos\\recruitmentplatform.api\\recruitmentplatform.api\\repositories\\iapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|solutionrelative:recruitmentplatform.api\\repositories\\iapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|c:\\users\\hp\\source\\repos\\recruitmentplatform.api\\recruitmentplatform.api\\repositories\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|solutionrelative:recruitmentplatform.api\\repositories\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|c:\\users\\hp\\source\\repos\\recruitmentplatform.api\\recruitmentplatform.api\\repositories\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|solutionrelative:recruitmentplatform.api\\repositories\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|c:\\users\\hp\\source\\repos\\recruitmentplatform.api\\recruitmentplatform.api\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|solutionrelative:recruitmentplatform.api\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|c:\\users\\hp\\source\\repos\\recruitmentplatform.api\\recruitmentplatform.api\\migrations\\20260709191333_initialcreate_fix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|solutionrelative:recruitmentplatform.api\\migrations\\20260709191333_initialcreate_fix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|c:\\users\\hp\\source\\repos\\recruitmentplatform.api\\recruitmentplatform.api\\migrations\\20260709190303_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|solutionrelative:recruitmentplatform.api\\migrations\\20260709190303_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|c:\\users\\hp\\source\\repos\\recruitmentplatform.api\\recruitmentplatform.api\\models\\jobposting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|solutionrelative:recruitmentplatform.api\\models\\jobposting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|c:\\users\\hp\\source\\repos\\recruitmentplatform.api\\recruitmentplatform.api\\models\\interview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|solutionrelative:recruitmentplatform.api\\models\\interview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|c:\\users\\hp\\source\\repos\\recruitmentplatform.api\\recruitmentplatform.api\\migrations\\20260710054530_addroletouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|solutionrelative:recruitmentplatform.api\\migrations\\20260710054530_addroletouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|c:\\users\\hp\\source\\repos\\recruitmentplatform.api\\recruitmentplatform.api\\migrations\\20260711104034_seeddefaultadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|solutionrelative:recruitmentplatform.api\\migrations\\20260711104034_seeddefaultadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|c:\\users\\hp\\source\\repos\\recruitmentplatform.api\\recruitmentplatform.api\\migrations\\20260711173708_addjobstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|solutionrelative:recruitmentplatform.api\\migrations\\20260711173708_addjobstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|c:\\users\\hp\\source\\repos\\recruitmentplatform.api\\recruitmentplatform.api\\migrations\\20260711182032_addapplicationstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|solutionrelative:recruitmentplatform.api\\migrations\\20260711182032_addapplicationstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|c:\\users\\hp\\source\\repos\\recruitmentplatform.api\\recruitmentplatform.api\\migrations\\20260711161806_addcandidateprofilefields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|solutionrelative:recruitmentplatform.api\\migrations\\20260711161806_addcandidateprofilefields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|c:\\users\\hp\\source\\repos\\recruitmentplatform.api\\recruitmentplatform.api\\migrations\\20260712104003_addprofessionalprofilefields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|solutionrelative:recruitmentplatform.api\\migrations\\20260712104003_addprofessionalprofilefields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|c:\\users\\hp\\source\\repos\\recruitmentplatform.api\\recruitmentplatform.api\\migrations\\20260716171115_adddepartmentslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334E4BA4-237A-6122-3135-1DF684BC8115}|RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj|solutionrelative:recruitmentplatform.api\\migrations\\20260716171115_adddepartmentslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\appsettings.json",
+              "RelativeDocumentMoniker": "RecruitmentPlatform.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\appsettings.json*",
+              "RelativeToolTip": "RecruitmentPlatform.API\\appsettings.json*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-09T18:18:23.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "RecruitmentPlatform.API\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "RecruitmentPlatform.API\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T17:23:23.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RecruitmentPlatform.API.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj",
+              "RelativeDocumentMoniker": "RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj",
+              "RelativeToolTip": "RecruitmentPlatform.API\\RecruitmentPlatform.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-09T17:37:29.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Controllers\\ApplicationsController.cs",
+              "RelativeDocumentMoniker": "RecruitmentPlatform.API\\Controllers\\ApplicationsController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Controllers\\ApplicationsController.cs",
+              "RelativeToolTip": "RecruitmentPlatform.API\\Controllers\\ApplicationsController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwCAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T20:00:55.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "RecruitmentPlatform.API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "RecruitmentPlatform.API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAA0BAAAAAAAAAAASwBwBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T19:21:49.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Program.cs",
+              "RelativeDocumentMoniker": "RecruitmentPlatform.API\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Program.cs",
+              "RelativeToolTip": "RecruitmentPlatform.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T18:20:21.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CandidateProfile.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Models\\CandidateProfile.cs",
+              "RelativeDocumentMoniker": "RecruitmentPlatform.API\\Models\\CandidateProfile.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Models\\CandidateProfile.cs",
+              "RelativeToolTip": "RecruitmentPlatform.API\\Models\\CandidateProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T17:46:02.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "2z2obd5b..sql",
+              "DocumentMoniker": "C:\\Users\\HP\\AppData\\Local\\Temp\\2z2obd5b..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\2z2obd5b..sql",
+              "ToolTip": "C:\\Users\\HP\\AppData\\Local\\Temp\\2z2obd5b..sql",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\2z2obd5b..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-07-20T14:56:04.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JobsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Controllers\\JobsController.cs",
+              "RelativeDocumentMoniker": "RecruitmentPlatform.API\\Controllers\\JobsController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Controllers\\JobsController.cs",
+              "RelativeToolTip": "RecruitmentPlatform.API\\Controllers\\JobsController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAwwGoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T19:55:44.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "RecruitmentPlatform.API\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Models\\Department.cs",
+              "RelativeToolTip": "RecruitmentPlatform.API\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T17:06:43.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InterviewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Repositories\\InterviewRepository.cs",
+              "RelativeDocumentMoniker": "RecruitmentPlatform.API\\Repositories\\InterviewRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Repositories\\InterviewRepository.cs",
+              "RelativeToolTip": "RecruitmentPlatform.API\\Repositories\\InterviewRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T20:13:54.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RecruitmentPlatform.API\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "RecruitmentPlatform.API\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T18:11:28.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SmsService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Services\\SmsService.cs",
+              "RelativeDocumentMoniker": "RecruitmentPlatform.API\\Services\\SmsService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Services\\SmsService.cs",
+              "RelativeToolTip": "RecruitmentPlatform.API\\Services\\SmsService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T06:30:22.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "RecruitmentPlatform.API\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "RecruitmentPlatform.API\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAA8wDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T17:08:06.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20260716171115_AddDepartmentsLogic.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Migrations\\20260716171115_AddDepartmentsLogic.cs",
+              "RelativeDocumentMoniker": "RecruitmentPlatform.API\\Migrations\\20260716171115_AddDepartmentsLogic.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Migrations\\20260716171115_AddDepartmentsLogic.cs",
+              "RelativeToolTip": "RecruitmentPlatform.API\\Migrations\\20260716171115_AddDepartmentsLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T17:11:16.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "RecruitmentPlatform.API\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Models\\User.cs",
+              "RelativeToolTip": "RecruitmentPlatform.API\\Models\\User.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T17:44:30.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Models\\Job.cs",
+              "RelativeDocumentMoniker": "RecruitmentPlatform.API\\Models\\Job.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Models\\Job.cs",
+              "RelativeToolTip": "RecruitmentPlatform.API\\Models\\Job.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T17:33:24.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "RecruitmentPlatform.API\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "RecruitmentPlatform.API\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T18:50:57.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RecruitmentPlatform.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RecruitmentPlatform.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-09T19:31:10.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GeminiService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Services\\GeminiService.cs",
+              "RelativeDocumentMoniker": "RecruitmentPlatform.API\\Services\\GeminiService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Services\\GeminiService.cs",
+              "RelativeToolTip": "RecruitmentPlatform.API\\Services\\GeminiService.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAawIUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T09:52:22.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "RecruitmentPlatform.API\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Services\\EmailService.cs",
+              "RelativeToolTip": "RecruitmentPlatform.API\\Services\\EmailService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T18:10:21.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IInterviewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Repositories\\IInterviewRepository.cs",
+              "RelativeDocumentMoniker": "RecruitmentPlatform.API\\Repositories\\IInterviewRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Repositories\\IInterviewRepository.cs",
+              "RelativeToolTip": "RecruitmentPlatform.API\\Repositories\\IInterviewRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T20:13:26.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20260712104003_AddProfessionalProfileFields.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Migrations\\20260712104003_AddProfessionalProfileFields.cs",
+              "RelativeDocumentMoniker": "RecruitmentPlatform.API\\Migrations\\20260712104003_AddProfessionalProfileFields.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Migrations\\20260712104003_AddProfessionalProfileFields.cs",
+              "RelativeToolTip": "RecruitmentPlatform.API\\Migrations\\20260712104003_AddProfessionalProfileFields.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T10:40:04.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20260711173708_AddJobsTable.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Migrations\\20260711173708_AddJobsTable.cs",
+              "RelativeDocumentMoniker": "RecruitmentPlatform.API\\Migrations\\20260711173708_AddJobsTable.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Migrations\\20260711173708_AddJobsTable.cs",
+              "RelativeToolTip": "RecruitmentPlatform.API\\Migrations\\20260711173708_AddJobsTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T17:37:08.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20260711182032_AddApplicationsTable.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Migrations\\20260711182032_AddApplicationsTable.cs",
+              "RelativeDocumentMoniker": "RecruitmentPlatform.API\\Migrations\\20260711182032_AddApplicationsTable.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Migrations\\20260711182032_AddApplicationsTable.cs",
+              "RelativeToolTip": "RecruitmentPlatform.API\\Migrations\\20260711182032_AddApplicationsTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T18:20:32.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20260711161806_AddCandidateProfileFields.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Migrations\\20260711161806_AddCandidateProfileFields.cs",
+              "RelativeDocumentMoniker": "RecruitmentPlatform.API\\Migrations\\20260711161806_AddCandidateProfileFields.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Migrations\\20260711161806_AddCandidateProfileFields.cs",
+              "RelativeToolTip": "RecruitmentPlatform.API\\Migrations\\20260711161806_AddCandidateProfileFields.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T16:18:06.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Models\\Application.cs",
+              "RelativeDocumentMoniker": "RecruitmentPlatform.API\\Models\\Application.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Models\\Application.cs",
+              "RelativeToolTip": "RecruitmentPlatform.API\\Models\\Application.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T17:52:22.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Organization.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Models\\Organization.cs",
+              "RelativeDocumentMoniker": "RecruitmentPlatform.API\\Models\\Organization.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Models\\Organization.cs",
+              "RelativeToolTip": "RecruitmentPlatform.API\\Models\\Organization.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T17:53:33.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20260711104034_SeedDefaultAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Migrations\\20260711104034_SeedDefaultAdmin.cs",
+              "RelativeDocumentMoniker": "RecruitmentPlatform.API\\Migrations\\20260711104034_SeedDefaultAdmin.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Migrations\\20260711104034_SeedDefaultAdmin.cs",
+              "RelativeToolTip": "RecruitmentPlatform.API\\Migrations\\20260711104034_SeedDefaultAdmin.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T10:40:35.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "RecruitmentPlatform.API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "RecruitmentPlatform.API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T10:26:24.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "RecruitmentPlatform.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\appsettings.Development.json",
+              "RelativeToolTip": "RecruitmentPlatform.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-10T06:02:43.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "RecruitmentPlatform.API\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "RecruitmentPlatform.API\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T09:41:37.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ApplicationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Repositories\\ApplicationRepository.cs",
+              "RelativeDocumentMoniker": "RecruitmentPlatform.API\\Repositories\\ApplicationRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Repositories\\ApplicationRepository.cs",
+              "RelativeToolTip": "RecruitmentPlatform.API\\Repositories\\ApplicationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T19:59:20.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20260710054530_AddRoleToUser.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Migrations\\20260710054530_AddRoleToUser.cs",
+              "RelativeDocumentMoniker": "RecruitmentPlatform.API\\Migrations\\20260710054530_AddRoleToUser.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Migrations\\20260710054530_AddRoleToUser.cs",
+              "RelativeToolTip": "RecruitmentPlatform.API\\Migrations\\20260710054530_AddRoleToUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T05:45:31.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "InterviewsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Controllers\\InterviewsController.cs",
+              "RelativeDocumentMoniker": "RecruitmentPlatform.API\\Controllers\\InterviewsController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Controllers\\InterviewsController.cs",
+              "RelativeToolTip": "RecruitmentPlatform.API\\Controllers\\InterviewsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T20:15:01.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IApplicationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Repositories\\IApplicationRepository.cs",
+              "RelativeDocumentMoniker": "RecruitmentPlatform.API\\Repositories\\IApplicationRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Repositories\\IApplicationRepository.cs",
+              "RelativeToolTip": "RecruitmentPlatform.API\\Repositories\\IApplicationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T19:58:45.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IJobRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Repositories\\IJobRepository.cs",
+              "RelativeDocumentMoniker": "RecruitmentPlatform.API\\Repositories\\IJobRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Repositories\\IJobRepository.cs",
+              "RelativeToolTip": "RecruitmentPlatform.API\\Repositories\\IJobRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T19:52:42.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "JobRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Repositories\\JobRepository.cs",
+              "RelativeDocumentMoniker": "RecruitmentPlatform.API\\Repositories\\JobRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Repositories\\JobRepository.cs",
+              "RelativeToolTip": "RecruitmentPlatform.API\\Repositories\\JobRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T19:53:23.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "RecruitmentPlatform.API\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "RecruitmentPlatform.API\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T19:19:25.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20260709191333_InitialCreate_Fix.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Migrations\\20260709191333_InitialCreate_Fix.cs",
+              "RelativeDocumentMoniker": "RecruitmentPlatform.API\\Migrations\\20260709191333_InitialCreate_Fix.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Migrations\\20260709191333_InitialCreate_Fix.cs",
+              "RelativeToolTip": "RecruitmentPlatform.API\\Migrations\\20260709191333_InitialCreate_Fix.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T19:13:34.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20260709190303_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Migrations\\20260709190303_InitialCreate.cs",
+              "RelativeDocumentMoniker": "RecruitmentPlatform.API\\Migrations\\20260709190303_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Migrations\\20260709190303_InitialCreate.cs",
+              "RelativeToolTip": "RecruitmentPlatform.API\\Migrations\\20260709190303_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T19:03:03.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20260709185921_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Migrations\\20260709185921_InitialCreate.cs",
+              "RelativeDocumentMoniker": "RecruitmentPlatform.API\\Migrations\\20260709185921_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Migrations\\20260709185921_InitialCreate.cs",
+              "RelativeToolTip": "RecruitmentPlatform.API\\Migrations\\20260709185921_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T18:59:22.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "JobPosting.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Models\\JobPosting.cs",
+              "RelativeDocumentMoniker": "RecruitmentPlatform.API\\Models\\JobPosting.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Models\\JobPosting.cs",
+              "RelativeToolTip": "RecruitmentPlatform.API\\Models\\JobPosting.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T17:48:06.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Interview.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Models\\Interview.cs",
+              "RelativeDocumentMoniker": "RecruitmentPlatform.API\\Models\\Interview.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecruitmentPlatform.API\\RecruitmentPlatform.API\\Models\\Interview.cs",
+              "RelativeToolTip": "RecruitmentPlatform.API\\Models\\Interview.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T17:52:59.053Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
